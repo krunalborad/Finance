@@ -109,3 +109,10 @@ Authorization: Bearer <your_token>
 
 👉 Postman Docs:  
 https://documenter.getpostman.com/view/53751102/2sBXiqEUAx
+
+## 🎯 Future Improvements
+
+- Pagination for records
+- Advanced filtering (date range, category)
+- Graph-based analytics
+- Frontend integration (React)
